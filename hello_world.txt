@@ -1,3 +1,8 @@
 hi
 
 change on master
+
+i'm learning git!!
+
+version2
+>>>>>>> version2
